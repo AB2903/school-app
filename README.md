@@ -28,6 +28,6 @@ Pour contribuer, vous pouvez clôner et démarrer le projet, ensuite apporter vo
 
 # Licence
 
-Ce projet est conçu pour les apprenants de la cohorte 1 de wommate, dans le cadre du bootcamp fullstack JS. Il est libre d'accès. 
+Ce projet est conçu pour les apprenants de la cohorte 1 de wommate, dans le cadre du bootcamp fullstack JS. Il est libre d'accès.
 
 

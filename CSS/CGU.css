@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+}
+nav {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 80px;
+    background-color: #AAEBFF;
+    border-bottom: 1px solid #FFD550;
+}
+ul{
+    display: flex;
+    gap: 25px;
+    margin-top: 15px;
+}
+nav img{
+    width:  150px;
+}
+a{
+    padding: 15px;
+    text-decoration: none;
+    color: #000000;
+    font-weight: bolder;
+}
+nav ul li{
+    display: flex;
+}
+.inscription-acceuil{
+    background-color: #000000;
+    border-radius: 8px;
+    padding: 10px 15px -10px 15px;
+    margin: 10px 15px 20px 10px;
+    border: none;
+    width: 120px;
+    height: 30px;
+}
+.inscription-acceuil a{
+    font-weight: bolder;
+    color: #fff;
+}
+
+.big-div{
+    background-color: #FFD550;
+    padding: 50px;
+    margin: 70px 60px 0px 60px;
+    width: 990px;
+    height: 360px;
+    border-radius: 47px;
+    display: flex;
+    justify-content: space-around;
+} 
+h1{
+    font-weight: bolder;
+    font-size: 60px;
+    padding-top: 65px;
+}
+.big-div img{
+    width: 245px;
+    height: 225px;
+    padding-top: 65px;
+    padding-right: 60px;
+}
+.little-div{
+    display: flex;
+    flex-direction: column;
+}
+.little-div h2{
+    font-weight: bolder;
+    font-size: 30px;
+    margin-left: 80px;
+}
+.little-div p{
+    width: 780px;
+    margin-left: 80px;
+    font-size: 12px;
+}
