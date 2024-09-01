@@ -8,7 +8,7 @@ function connexion() {
             event.preventDefault(); 
             return;
         }else{
-        alert("Le formulaire a été soumis avec succès");
+        alert("Le formulaire est soumis avec succès");
         }
     });
     connexion.addEventListener("reset", function(event){

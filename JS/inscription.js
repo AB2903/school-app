@@ -15,7 +15,7 @@ function inscription() {
             alert("Vos mots de passes ne sont pas identiques");
             event.preventDefault();
         } else{
-            alert("Le formule a été soumis avec succès");
+            alert("Le formule est soumis avec succès");
             return;
         }
 
